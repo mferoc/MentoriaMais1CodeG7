@@ -1,6 +1,6 @@
 # MentoriaMais1CodeG7
 <p align="center">
-  <img alt="" width="150" height="auto" src="" />
+  <img alt="logo da escola mais 1 code" width="150" height="auto" src="./repo_assets/mais1code_logo.png" />
 </p>
 
 <p align="center">
@@ -12,6 +12,6 @@
 </p>
 
 <p align="justify">
-Aulas mentoria mais 1 code grupo 7
+Neste repósitorio estão armazenados todos os arquivos refentes a mentoria realizada para pessoas selecionadas pela Mais1Code para participar de uma mentoria de Programação com duração de 8 meses.
 </p>
 
