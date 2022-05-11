@@ -2,18 +2,18 @@
  * Estrutura de repeticao (laços)
  * Ideia: executar um codigo repetidamente
  * Com um número definido de execuções
- * 
+ *
  */
 
 console.log(1);
 console.log(2);
 console.log(3);
 
-// inicializacao; 
+// inicializacao;
 //expressao para ser avaliada; if(index < num)
 //incremento / decremento
 // for (let index = 0; index < num; index++) {
-//     console.log(index);    
+//     console.log(index);
 // }
 
 let index = 0;
