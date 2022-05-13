@@ -14,6 +14,6 @@ function printName(name) {
 }
 
 // let não é hoisting
-// z = 2 // assign
-// console.log(y) //2
-// let z; // declare
+z = 2 // assign
+console.log(y) //2
+let z; // declare
