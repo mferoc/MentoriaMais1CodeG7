@@ -1,0 +1,16 @@
+body {
+  margin-left: 200px;
+  margin-right: 200px;
+  color: red;
+  text-align: center;
+}
+
+form ul {
+    list-style-type: none;
+}
+
+img {
+  width: 180px;
+  height: 180px;
+}
+
