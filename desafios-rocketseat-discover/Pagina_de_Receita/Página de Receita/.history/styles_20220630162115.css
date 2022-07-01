@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #EAEAEA;
+}
+
+body {
+    font-family: "Roboto" sans-serif;
+    font-weight: 400;
+    text-align:center;
+}
+
+h1, h2 {
+    font-weight: 700;
+}
+
+.inside {
+    list-style-position: inside;
+  }
+  /*Usado para ordenar a lista em pontos no css*/
+
+  figcaption {
+    text-align: right;
+  }

@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --background: #eaeaea;
+  --background-receita: #ffffff;
+  --titles: #1b1b1b;
+  --footer-legendas: #8f8f8f;
+  --textos-genericos: #39393a;
+}
+
+/* - Título: `28px`;
+- Subtítulos: `20px`;
+- Listas e parágrafo(s): `16px`;
+- Footer e legenda da imagem: `12px`; */
+
+body {
+  font-family: "Roboto";
+  font-weight: 400;
+  text-align: center;
+
+}
+/**/
+
+.container {
+  background-color: var(--background);
+  width: auto;
+  max-width: 100%;
+  padding: 100px;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: auto;
+  margin-bottom:auto;
+}
+
+.main-container {
+  background-color: var(--background-receita);
+  width: 90%;
+  /* margin: 100px; */
+  border: 0px solid;
+  border-radius: 10px;
+}
+
+.footer-container {
+  margin-top: 0.1rem;
+  text-align: center;
+}
+
+h1 {
+  font-size: 26px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+h1,
+h2 {
+  font-weight: 700;
+  color: var(--titles);
+}
+ul, ol {
+  overflow: auto;
+}
+.inside {
+  /* list-style-position: inside; */
+}
+/*Usado para ordenar a lista em pontos no css*/
+
+figcaption {
+  text-align: right;
+}
+/**/
